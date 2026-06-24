@@ -46,17 +46,17 @@ DIABETES/
 
 ## Screenshots
 
-### Home Page
+## Home Page
 
 ![Home](screenshots/home.png)
 
-### Prediction Result
+## Prediction Result
 
 ![Prediction](screenshots/prediction.png)
 
-### Model Performance
+## Model Performance
 
-![Accuracy](screenshots/model_accuracy.png)
+![Model Performance](screenshots/model_accuracy.png)
 
 ## How to Run
 
@@ -64,6 +64,9 @@ DIABETES/
 pip install -r requirements.txt
 streamlit run app.py
 
+## Model Performance
+
+Logistic Regression Accuracy: 77%
 ## Author
 
 Neil Kesarkar   
