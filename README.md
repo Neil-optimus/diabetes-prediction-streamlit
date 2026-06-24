@@ -25,7 +25,10 @@ The project uses the PIMA Indians Diabetes Dataset.
 
 ## Project Structure
 
-DIABETES/
+## Project Structure
+
+```text
+diabetes-prediction-streamlit/
 │
 ├── dataset/
 │   └── diabetes.csv
@@ -35,14 +38,15 @@ DIABETES/
 │
 ├── screenshots/
 │   ├── home.png
-│   ├── model_accuracy.png
-│   └── prediction.png
+│   ├── prediction.png
+│   └── model_accuracy.png
 │
-├── .gitignore
 ├── app.py
-├── README.md
+├── trained_model.sav
 ├── requirements.txt
-└── trained_model.sav
+├── README.md
+└── .gitignore
+```
 
 ## Screenshots
 
