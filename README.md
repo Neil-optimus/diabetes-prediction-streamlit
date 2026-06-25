@@ -82,7 +82,7 @@ This project is developed for educational and demonstration purposes only. It sh
 
 ## 🚀 Live Demo
 
-https://diabetes-prediction-app-neil.streamlit.app/
+[Click here to use the Diabetes Prediction Web App](https://diabetes-prediction-app-neil.streamlit.app/)
 
 ## Author
 
