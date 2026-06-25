@@ -78,6 +78,12 @@ Accuracy: 77%
 
 This project is developed for educational and demonstration purposes only. It should not be used as a substitute for professional medical advice or diagnosis.
 
+# Diabetes Prediction Web Application
+
+## 🚀 Live Demo
+
+https://diabetes-prediction-app-neil.streamlit.app/
+
 ## Author
 
 Neil Kesarkar   
