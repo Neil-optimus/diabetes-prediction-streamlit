@@ -71,7 +71,13 @@ streamlit run app.py
 
 ## Model Performance
 
-Logistic Regression Accuracy: 77%
+Model : SVM 
+Accuracy: 77%
+
+## Disclaimer
+
+This project is developed for educational and demonstration purposes only. It should not be used as a substitute for professional medical advice or diagnosis.
+
 ## Author
 
 Neil Kesarkar   
