@@ -14,14 +14,14 @@ def diabetes_prediction(input_data):
     
 def main():
     st.title("Diabetes Prediction Web App")
-    Pregnancies = st.number_input("How many pregnancies did you have?")
-    Glucose = st.number_input("Glucose Level")
-    BloodPressure = st.number_input("Blood Pressure Value ")
-    SkinThickness = st.number_input("Skin Thickness ")
-    Insulin = st.number_input("Insulin Level")
-    BMI	= st.number_input("BMI value")
-    DiabetesPedigreeFunction = st.number_input("Diabetes Peidgree Function")
-    Age = st.number_input("Your age ")
+    Pregnancies = st.number_input("How many pregnancies did you have?",min_value=0)
+    Glucose = st.number_input("Glucose Level",min_value=0.0)
+    BloodPressure = st.number_input("Blood Pressure Value ",min_value=0.0)
+    SkinThickness = st.number_input("Skin Thickness ",min_value=0.0)
+    Insulin = st.number_input("Insulin Level",min_value=0.0)
+    BMI	= st.number_input("BMI value",min_value=0.0)
+    DiabetesPedigreeFunction = st.number_input("Diabetes Peidgree Function",min_value=0.0)
+    Age = st.number_input("Your age ",min_value=1)
 
     diagnosis = ''
     if st.button("Diabetes test result"):

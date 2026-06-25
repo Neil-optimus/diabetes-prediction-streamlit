@@ -1,4 +1,4 @@
-# Diabetes Prediction using Machine Learning
+# Diabetes Prediction Web Application using Logistic Regression and Streamlit
 
 ## Overview
 
@@ -11,10 +11,11 @@ This project predicts whether a person is diabetic based on medical attributes u
 - Pandas
 - Scikit-Learn
 - Streamlit
+- Pickle
 
 ## Dataset
 
-The project uses the PIMA Indians Diabetes Dataset.
+The PIMA Indians Diabetes Dataset contains medical diagnostic measurements used to predict whether a patient has diabetes.The project uses the PIMA Indians Diabetes Dataset.
 
 ## Features
 
